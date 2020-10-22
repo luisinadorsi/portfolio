@@ -1,2 +1,2 @@
 # portfolio
-Mi primer sitio web
+Diseño y desarrollo de mi sitio web personal. Primera versión
